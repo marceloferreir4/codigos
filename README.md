@@ -1,3 +1,3 @@
 # Códigos
 
-Lista de códigos escritos em Python e JavaScript.
+Lista de códigos escritos em Python.
